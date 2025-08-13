@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 import numpy as np
+import pycaret
 
 # Load the trained model
 @st.cache_resource
