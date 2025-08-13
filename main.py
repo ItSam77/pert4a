@@ -7,7 +7,7 @@ import pycaret
 # Load the trained model
 @st.cache_resource
 def load_model():
-    with open('decision_tree_attrition_model.pkl', 'rb') as file:
+    with open('model.pkl', 'rb') as file:
         model = pickle.load(file)
     return model
 
