@@ -88,7 +88,7 @@ pert5a/
 ├── 📓 notebook.ipynb                   # Notebook pengembangan model
 ├── 📋 requirements.txt                 # Daftar dependencies
 ├── 📖 README.md                        # Dokumentasi project
-└── 📁 venvs/                          # Virtual environment
+└── 📁 venv/                            # Virtual environment
 ```
 
 ---
