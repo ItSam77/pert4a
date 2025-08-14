@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🏢 Employee Attrition Prediction
 
 ## 📋 Deskripsi
