@@ -93,3 +93,6 @@ pert5a/
 
 ---
 
+## 🌐 Demo Online
+
+Untuk mengakses aplikasi Streamlit yang telah di-deploy, silakan klik [di sini](https://pert5a-eme4yx37v3pvptbz2fnb7g.streamlit.app/)
