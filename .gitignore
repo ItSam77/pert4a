@@ -1,3 +1,2 @@
-venv/
+venvs/
 logs.log
-notebook.ipynb
