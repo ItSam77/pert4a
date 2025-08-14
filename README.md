@@ -96,4 +96,4 @@ pert5a/
 ## 🌐 Demo Online
 
 Untuk mengakses aplikasi Streamlit yang telah di-deploy, silakan klik [di sini](https://pert5a-eme4yx37v3pvptbz2fnb7g.streamlit.app/) 
-(**Tidak Lifetime, yang berarti jadi jika tidak digunakan maka app akan masuk ke mode sleep**)
+(**Tidak Lifetime, yang berarti jika tidak digunakan maka app akan masuk ke mode sleep**)
