@@ -42,10 +42,6 @@ python3.10 -m venv venv
 source venv/bin/activate
 ```
 
-**Untuk Semua OS:**
-```bash
-cd pert5a
-```
 
 #### 3️⃣ **Install Dependencies**
 ```bash
